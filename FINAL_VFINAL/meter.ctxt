@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=meter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ meter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height\ units\ C
+comment1.target=meter(int,\ int,\ int,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=units
+comment3.target=void\ setUnits(int)
+numComments=4

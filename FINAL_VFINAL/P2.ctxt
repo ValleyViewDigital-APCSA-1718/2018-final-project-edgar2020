@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=P2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=icon
+comment1.target=P2(boolean)
+comment2.params=lives\ speed\ icon
+comment2.target=P2(int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ shoot()
+comment6.params=
+comment6.target=void\ reload()
+comment7.params=
+comment7.target=void\ touchingObs()
+comment8.params=
+comment8.target=int\ getMagSize()
+numComments=9

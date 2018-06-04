@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=movables
+comment1.params=
+comment1.target=void\ movement()
+comment2.params=
+comment2.target=void\ collisions()
+comment3.params=
+comment3.target=void\ shoot()
+numComments=4

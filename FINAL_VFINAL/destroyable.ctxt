@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=destroyable
+comment0.text=\r\n\ Currently\ does\ nothing\ but\ in\ event\ that\ more\ obstacles\ are\ created\r\n\ this\ parent\ class\ can\ be\ used\ so\ that\ all\ destroyables\ are\ affected\r\n\ by\ either\ a\ bullet\ or\ an\ incoming\ player\r\n
+comment1.params=
+comment1.target=destroyable()
+numComments=2
